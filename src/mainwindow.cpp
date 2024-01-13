@@ -1,6 +1,6 @@
-#include "Headers/mainwindow.h"
-#include "Headers/ui_mainwindow.h"
-#include "Headers/cuboidobj.h"
+#include "headers/mainwindow.h"
+#include "headers/ui_mainwindow.h"
+#include "headers/cuboidobj.h"
 #include <QGraphicsScene>
 #include <QPropertyAnimation>
 #include <QGraphicsItemAnimation>
